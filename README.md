@@ -17,4 +17,8 @@ data from MLIT
         └── tabnet.ipynb
 
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>qiita first_half <a target="_blank" href="https://qiita.com/teru-saitou/items/264b29de13f6abbb666a">qiita first_halff</a></small></p>
+<p><small>qiita second_half <a target="_blank" href="https://qiita.com/teru-saitou/items/5292cd3f8c7ebe0f7c60">qiita second_half</a></small></p>
+
+
+
